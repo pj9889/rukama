@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rukamafun.kelly69.blog/sitemap.xml
